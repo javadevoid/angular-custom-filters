@@ -1,9 +1,9 @@
 {
   "name": "angular-custom-filters",
   "version": "0.0.1",
-  "homepage": "https://github.com/tablackmore/angular-custom-filters",
+  "homepage": "https://github.com/javadevoid/angular-custom-filters",
   "authors": [
-    "Tom Blackmore <tablackmore@gmail.com>"
+    "javadevoid <javadevoid@gmail.com>"
   ],
   "description": "A set of custom filters for angularjs",
   "main": "src/angular-custom-filters.js",

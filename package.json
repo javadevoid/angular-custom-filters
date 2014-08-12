@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/tablackmore/angular-custom-filters.git"
+    "url": "git://github.com/javadevoid/angular-custom-filters.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tablackmore/angular-custom-filters/issues"
+    "url": "https://github.com/javadevoid/angular-custom-filters/issues"
   },
-  "homepage": "https://github.com/tablackmore/angular-custom-filters",
+  "homepage": "https://github.com/javadevoid/angular-custom-filters",
   "devDependencies": {
     "karma": "^0.12.21",
     "karma-jasmine": "^0.1.5",
